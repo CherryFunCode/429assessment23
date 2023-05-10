@@ -1,0 +1,1 @@
+print (" Do you belive the fate ?")
