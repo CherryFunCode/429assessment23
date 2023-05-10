@@ -12,6 +12,6 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Print Hello, world!
-      run: echo "Hollo, world!"
-
+      run: echo "Hello, world!"
+# Fixed Spelling - NB
  
